@@ -20,8 +20,14 @@ const app = express();
 app.use(express.json());
 app.use(cookieParser());
 app.use(cors({
-  origin: ['http://localhost:5173', 'https://ubiquitous-lamington-f12fc4.netlify.app'],
+  origin: [
+    'http://localhost:5173', 
+    'https://ubiquitous-lamington-f12fc4.netlify.app',
+    'https://ubiquitous-lamington-f12fc4.netlify.app/'// Add your production domain
+  ],
   credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE'],
+  allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
 
