@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Aloo Parantha",
+    "description": "Fluffy wheat bread stuffed with spiced potatoes, served with cool raita (yogurt) and pickle.",
+    "price": 9.98,
+    "category": "paranthas",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Gobi Parantha",
+    "description": "A delicious parantha filled with seasoned cauliflower, served with a side of raita and pickle.",
+    "price": 9.99,
+    "category": "paranthas",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Mix Parantha",
+    "description": "A hearty parantha stuffed with a medley of mixed vegetables, served with raita and pickle.",
+    "price": 9.99,
+    "category": "paranthas",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chat Papri",
+    "description": "Crisp papri wafers loaded with potatoes, chickpeas, and topped with yogurt, tangy tamarind, and spicy mint chutneys.",
+    "price": 7.99,
+    "category": "appetizers",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Samosa Chana Chaat",
+    "description": "Crushed savory samosas topped with a flavorful chickpea curry, sweet and tangy chutneys, and fresh cilantro.",
+    "price": 7.99,
+    "category": "appetizers",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Aloo Tikki Chana Chaat",
+    "description": "Crisp potato patties served with a warm, spiced chickpea curry, topped with a mix of chutneys and yogurt.",
+    "price": 7.99,
+    "category": "appetizers",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Veg Samosa",
+    "description": "A flaky pastry triangle filled with a delicious mixture of spiced potatoes and peas. Price is per piece.",
+    "price": 1.99,
+    "category": "appetizers",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Samosa",
+    "description": "A deep-fried pastry triangle filled with a savory blend of minced chicken and spices. Price is per piece.",
+    "price": 2.99,
+    "category": "appetizers",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Pav Bhaji",
+    "description": "A spicy and savory mixed vegetable mash served with soft buttered buns (pav), a classic street food delight.",
+    "price": 10.99,
+    "category": "appetizers",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Fish Pakora",
+    "description": "Tender fish fillets seasoned with aromatic spices, battered in chickpea flour, and deep-fried to a golden crisp. Price is per pound.",
+    "price": 10.99,
+    "category": "appetizers",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Tandoori Chicken Momos",
+    "description": "Juicy chicken dumplings marinated in yogurt and spices, then grilled to a smoky perfection in the tandoor. Served as an 8-piece portion.",
+    "price": 12.99,
+    "category": "appetizers",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Steam Momos",
+    "description": "Delicately steamed dumplings filled with a savory mixture. Served as an 8-piece portion.",
+    "price": 9.99,
+    "category": "appetizers",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Masala Fries",
+    "description": "Crispy French fries tossed in a unique blend of tangy and spicy Indian masala.",
+    "price": 8.99,
+    "category": "appetizers",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Boondi Raita",
+    "description": "A cooling yogurt-based side dish mixed with crispy fried gram flour balls (boondi) and a touch of roasted cumin.",
+    "price": 4.99,
+    "category": "raita",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Plain Raita",
+    "description": "A simple and refreshing yogurt-based side dish, perfect for complementing spicy curries.",
+    "price": 3.99,
+    "category": "raita",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Onion Salad",
+    "description": "A zesty salad of thinly sliced fresh onions mixed with a blend of herbs, lemon juice, and spices.",
+    "price": 3.99,
+    "category": "salads",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Wrap",
+    "description": "Tender chicken pieces wrapped in a warm flatbread with fresh vegetables and a light sauce.",
+    "price": 12.99,
+    "category": "wraps",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Goat Wrap",
+    "description": "Savory, slow-cooked goat wrapped in a warm flatbread with fresh vegetables and our signature sauce.",
+    "price": 14.99,
+    "category": "wraps",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Fish Wrap",
+    "description": "Crispy fish pakora wrapped in a warm flatbread with fresh salad and a tangy dressing.",
+    "price": 12.99,
+    "category": "wraps",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Biryani",
+    "description": "A fragrant and flavorful basmati rice dish cooked with tender chicken pieces, layered with aromatic spices.",
+    "price": 12.99,
+    "category": "biryanis",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Goat Biryani",
+    "description": "Layers of slow-cooked basmati rice and succulent bone-in goat, infused with a rich blend of spices.",
+    "price": 14.99,
+    "category": "biryanis",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Veg Biryani",
+    "description": "Basmati rice cooked with a variety of fresh vegetables and exotic spices, making for a delicious and aromatic dish.",
+    "price": 10.99,
+    "category": "biryanis",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Aloo Gobhi",
+    "description": "A classic vegetarian dish of cauliflower and potatoes sautéed with ginger, garlic, and Indian spices.",
+    "price": 8.99,
+    "category": "vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Mix Vegetables",
+    "description": "A colorful medley of seasonal vegetables cooked in a mild and flavorful masala gravy.",
+    "price": 8.99,
+    "category": "vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Daal Makhani",
+    "description": "A rich and creamy lentil dish made with slow-cooked black lentils in a buttery, tomato-based sauce.",
+    "price": 8.99,
+    "category": "vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chana Masala",
+    "description": "Tender chickpeas simmered in a tangy onion-tomato curry with a blend of traditional spices.",
+    "price": 8.99,
+    "category": "vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Aloo Dry",
+    "description": "A simple yet delicious stir-fry of potatoes tossed with cumin, turmeric, and fresh herbs.",
+    "price": 8.99,
+    "category": "vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Veg Thali",
+    "description": "A complete vegetarian meal featuring a selection of two daily curries, served with basmati rice, warm naan, and a sweet dessert.",
+    "price": 12.99,
+    "category": "vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Plain Basmati Rice",
+    "description": "Fragrant and perfectly steamed long-grain basmati rice, an ideal accompaniment to any curry.",
+    "price": 5.99,
+    "category": "rice",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Veg Fried Rice",
+    "description": "Indo-Chinese style fried rice with finely chopped vegetables and a savory sauce.",
+    "price": 7.99,
+    "category": "rice",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Butter Chicken",
+    "description": "Tender pieces of chicken simmered in a creamy, mildly spiced tomato-based gravy.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Curry",
+    "description": "A traditional homestyle chicken curry cooked with a medium-spiced blend of Indian masalas.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Goat Curry",
+    "description": "Slow-cooked bone-in goat pieces in a rich, aromatic, and savory curry sauce.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Tikka Masala",
+    "description": "Grilled chicken chunks served in a spiced, creamy tomato and cashew-based sauce.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Vindaloo",
+    "description": "A fiery and tangy Goan-style curry with tender chicken pieces, made with a blend of vinegar, chili, and garlic.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Kadhai",
+    "description": "Tender chicken cooked with bell peppers, onions, and traditional spices in a rich, aromatic sauce.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Lababdaar",
+    "description": "A delicious curry of chicken stir-fried with onions, bell peppers, and a rich, creamy tomato gravy.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Goat Vindaloo",
+    "description": "A bold and spicy curry with tender goat pieces, prepared with a fiery mix of vinegar, garlic, and chilies.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Goat Kadhai",
+    "description": "Succulent goat pieces cooked with bell peppers and traditional masalas for a flavorful, semi-dry curry.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Spicy Garlic Chicken",
+    "description": "Tender chicken tossed in a fiery garlic sauce with a hint of red chili and bell peppers.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Lemon Chicken",
+    "description": "Zesty lemon-marinated chicken cooked in a light and refreshing masala gravy.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chilli Chicken",
+    "description": "An Indo-Chinese favorite with crispy chicken pieces stir-fried with green chilies, onions, and a tangy soy-based sauce.",
+    "price": 10.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Tandoori Chicken",
+    "description": "Chicken marinated in yogurt and spices, then traditionally cooked in a tandoor (clay oven) for a smoky flavor and tender texture.",
+    "price": 9.99,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Naan Kabob",
+    "description": "Grilled chicken skewers served with fresh naan and a variety of flavorful chutneys.",
+    "price": 11.49,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Roti",
+    "description": "A savory chicken curry served inside a warm, soft roti wrap.",
+    "price": 11.49,
+    "category": "non-vegetarian",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Butter Chicken Meal",
+    "description": "A complete meal with our creamy butter chicken, served with a portion of basmati rice and a warm naan.",
+    "price": 12.99,
+    "category": "non-veg combo",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Curry Meal",
+    "description": "Our traditional chicken curry meal, served with fragrant rice and fresh naan.",
+    "price": 12.99,
+    "category": "non-veg combo",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Goat Curry Meal",
+    "description": "A hearty meal of tender goat curry, served with basmati rice and fresh naan.",
+    "price": 12.99,
+    "category": "non-veg combo",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chicken Tikka Masala Meal",
+    "description": "A complete meal featuring our smoky chicken tikka masala, served with rice and warm naan.",
+    "price": 12.99,
+    "category": "non-veg combo",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Non-Veg Thali",
+    "description": "A grand platter featuring a selection of two meat curries, served with rice, naan, and a sweet dessert.",
+    "price": 14.99,
+    "category": "non-veg combo",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Chickpea Curry Meal",
+    "description": "A satisfying vegetarian meal featuring our savory chickpea curry, served with basmati rice and naan.",
+    "price": 12.99,
+    "category": "veg combo",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Aloo Gobhi Meal",
+    "description": "Our delicious aloo gobhi dish, served as a meal with basmati rice and naan.",
+    "price": 12.99,
+    "category": "veg combo",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Mix Veg Meal",
+    "description": "A wholesome meal of our mixed vegetable curry, served with basmati rice and warm naan.",
+    "price": 12.99,
+    "category": "veg combo",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Daal Makhani Meal",
+    "description": "A rich and creamy daal makhani meal, served with basmati rice and a soft naan.",
+    "price": 12.99,
+    "category": "veg combo",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Tawa Roti",
+    "description": "A traditional homemade flatbread cooked on an iron griddle, soft and perfect for soaking up curries.",
+    "price": 1.49,
+    "category": "breads",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Tandoori Roti",
+    "description": "Whole wheat bread baked in a hot clay oven for a rustic and slightly smoky flavor.",
+    "price": 1.99,
+    "category": "breads",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Plain Naan",
+    "description": "A classic white flour bread, baked fresh in the tandoor to be soft and fluffy.",
+    "price": 2.49,
+    "category": "breads",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Garlic Naan",
+    "description": "A soft naan bread topped with fresh minced garlic and cilantro, baked in the tandoor.",
+    "price": 2.99,
+    "category": "breads",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Butter Naan",
+    "description": "Our classic tandoor-baked naan, brushed with a generous amount of melted butter.",
+    "price": 2.99,
+    "category": "breads",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Bhatura",
+    "description": "A large, deep-fried fluffy bread, commonly served with chickpea curry (chana).",
+    "price": 2.99,
+    "category": "breads",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Gulab Jamun",
+    "description": "Soft, deep-fried milk balls soaked in a sweet rose-cardamom syrup. Served as a 2-piece portion.",
+    "price": 2.49,
+    "category": "desserts",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Carrot Pudding (Gajar Halwa)",
+    "description": "A traditional Indian dessert of sweet shredded carrots slow-cooked with milk, sugar, and nuts.",
+    "price": 6.7,
+    "category": "desserts",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Water",
+    "description": "A bottle of refreshing, clean water.",
+    "price": 1.49,
+    "category": "drinks",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Pop (Can)",
+    "description": "Your choice of classic soft drinks in a can.",
+    "price": 1.49,
+    "category": "drinks",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Mango Lassi",
+    "description": "A sweet and creamy yogurt-based drink blended with ripe mango pulp.",
+    "price": 4.99,
+    "category": "drinks",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Salted Lassi",
+    "description": "A savory and tangy yogurt drink flavored with roasted cumin and a touch of salt.",
+    "price": 4.99,
+    "category": "drinks",
+    "imageUrl": "https://via.placeholder.com/300"
+  },
+  {
+    "name": "Sweet Lassi",
+    "description": "A classic sweet yogurt drink, lightly flavored with sugar and rose essence.",
+    "price": 4.99,
+    "category": "drinks",
+    "imageUrl": "https://via.placeholder.com/300"
+  }
+]
