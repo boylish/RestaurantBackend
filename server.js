@@ -28,6 +28,10 @@ app.use(cors({
 // Serve static files
 app.use('/images', express.static(path.join(__dirname, 'public/images')));
 
+app.get('/', (req, res) => {
+  res.json({ success: true, message: 'API is live' });
+});
+
 // Routes
 app.use('/api/auth', require('./routes/authRoutes'));
 app.use('/api/menu', require('./routes/menuRoutes'));
